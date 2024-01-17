@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - <html>
   <body>
-  <marquee>Prithvi raj</marquee>
+  <marquee loop >Prithvi raj</marquee>
   </body>
 </html>
 <!---
