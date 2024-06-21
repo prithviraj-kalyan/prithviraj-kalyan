@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <html>
   <head>
     <body>
-      <marquee slide>Prithviraj Kalyan</marquee>
+      <marquee scroll>Prithviraj Kalyan</marquee>
     </body>
   </head>
 </html>
